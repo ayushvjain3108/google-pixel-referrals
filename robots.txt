@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://ayushvjain3108.github.io/google-pixel-referrals/sitemap.xml
