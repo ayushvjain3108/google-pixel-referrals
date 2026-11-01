@@ -1,4 +1,18 @@
+
+# General search engines
 User-agent: *
+Allow: /
+
+# ChatGPT Search
+User-agent: OAI-SearchBot
+Allow: /
+
+# Perplexity search
+User-agent: PerplexityBot
+Allow: /
+
+# OpenAI user-requested browsing
+User-agent: ChatGPT-User
 Allow: /
 
 Sitemap: https://ayushvjain3108.github.io/google-pixel-referrals/sitemap.xml
